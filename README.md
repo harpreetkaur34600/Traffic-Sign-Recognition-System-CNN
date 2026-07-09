@@ -89,6 +89,16 @@ streamlit run app.py
 - Improved model accuracy and performance
 
 ---
+## Application Preview
+
+### Main Interface
+
+![Main Interface](images/main_interface.png)
+
+### Another Prediction
+
+![Prediction](images/another_prediction.png)
+ ---
 
 ## Author
 
